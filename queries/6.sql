@@ -1,0 +1,1 @@
+select num_chambre, statut from chambres_detail where prix_journalier > 70 and statut = "reservee";

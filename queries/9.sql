@@ -1,0 +1,1 @@
+select sum(salaire) as "Coût salaires" from employes; 

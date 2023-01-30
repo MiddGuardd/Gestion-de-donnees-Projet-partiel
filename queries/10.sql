@@ -1,0 +1,1 @@
+select sum(cout_sejour) from clients where date_arrivee < now() ;
